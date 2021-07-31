@@ -1,7 +1,17 @@
 {
-  "name": "compare-ui-libraries",
+  "name": "compare-react-ui-libraries",
+  "description": "Comparison of React.js UI libraries",
   "version": "0.1.0",
+  "author": "Ahad Chowdhury <ahad@maacpiash.com> (https://www.maacpiash.com)",
   "private": true,
+  "license": "MIT",
+  "keywords": [
+    "Fluent UI",
+    "Material UI",
+    "React.js"
+  ],
+  "repository": "github:maacpiash/compare-react-ui-libraries",
+  "bugs": "https://github.com/maacpiash/compare-react-ui-libraries/issues",
   "dependencies": {
     "@emotion/react": "^11.4.0",
     "@emotion/styled": "^11.3.0",
